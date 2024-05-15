@@ -32,12 +32,7 @@ function Dashboard() {
           An AVL tree is a self-balancing binary search tree, ensuring efficient operations with logarithmic time complexity by maintaining balance between its subtrees. "
         />
       </a>
-      <a href="http://127.0.0.1:5500/DSA/TREE/TREEFROMTRAVERSAL/treefromtraversal.html" target="_blank" rel="noopener noreferrer"> {/* Anchor tag */}
-        <Card
-          title="Tree From Traversal"
-          description="Traversal sequences like preorder, inorder, or postorder can construct a tree by recursively dividing the sequences based on the root node's position."
-        />
-      </a>
+     
       <a href="http://127.0.0.1:5500/DSA/Binary%20Search/index.html" target="_blank" rel="noopener noreferrer"> {/* Anchor tag */}
         <Card
           title="Binary Search"
